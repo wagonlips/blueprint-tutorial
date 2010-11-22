@@ -1,11 +1,15 @@
 .grnBorder {
-  border:2px solid green;
+  border:1px solid green;
   }
 
 .redBorder {
-  border:2px solid red;
+  border:1px solid red;
   }
 
 .bluBorder {
-  border:2px solid blue;
+  border:1px solid blue;
+  }
+
+.yelBorder {
+  border:1px solid yellow;
   }
